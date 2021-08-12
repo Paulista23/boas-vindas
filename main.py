@@ -41,4 +41,4 @@ async def on_member_join(member):
 	await mensagem.delete()
 
 
-client.run('ODczMDIxNjA2MjEyMDM0NTcy.YQyWug.7UQnuXn69WV48GtCLz9BuQajAY8')
+client.run('token do bot')
