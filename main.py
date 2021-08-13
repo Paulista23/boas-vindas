@@ -36,7 +36,7 @@ async def on_member_join(member):
 	    f"**Bem vindo ao Imperio Celestial** {member.mention} **Leia as**  {regras.mention} **e** {sejastaff.mention} **Registre-se Aqui** {registrese.mention}"
 	)
 
-	await asyncio.sleep(20from replit import db)
+	await asyncio.sleep(20)
 
 	await mensagem.delete()
 
